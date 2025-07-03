@@ -2,7 +2,7 @@ import questionary
 from tareas import cargar_tareas, guardar_tareas, agregar_tarea, listar_tareas, completar_tarea, eliminar_tarea
 
 
-#Este es el main del codigo
+#Este es el main del codigo as
 def main():
     tareas = cargar_tareas()
 
